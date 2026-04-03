@@ -25,6 +25,11 @@ It captures requests sent to **any URL path**, logs them, and provides a clean U
 - ⚡ Always returns **200 OK** (perfect for webhook testing)
 
 ---
+## Screenshot 
+
+<img width="1916" height="861" alt="image" src="https://github.com/user-attachments/assets/567c6b2d-c768-43ec-b8ae-cc73fd04ebcc" />
+
+---
 
 ## 🚀 Installation
 
