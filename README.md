@@ -1,8 +1,8 @@
 # 🪝 Webhook Debugger — Flask API
 
-A simple yet powerful **Webhook Debugger UI** built with Flask.
+A lightweight yet powerful **Webhook Debugger & Third-Party Integration API Testing Tool**.
 
-It captures requests sent to **any URL path**, logs them, and provides a clean UI to inspect everything — headers, body, params, files, and more.
+Designed for developers to capture, inspect, and debug incoming HTTP requests from external services like Stripe, GitHub, payment gateways, CRMs, and other integrations — all in real time.
 
 ---
 
